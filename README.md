@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I consider myself a technology enthusiast and web development frontend is my passion.  I am constantly learning to stay up-to-date with the latest trends and technologies, and I am a passionate student of the craft. 👨‍💻</p>
+<p align="left">I consider myself a technology enthusiast and web development frontend is my passion.  I am constantly learning to stay up-to-date with the latest trends and technologies, I'm passionate about the process, for me, programming is like  crafting 👨‍💻</p>
 
 ###
 

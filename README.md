@@ -19,7 +19,7 @@
 </div>
 
 ###
-
+<h3 align="center">Skills</h3>
 <div align="center">
   <img src="http://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
@@ -30,7 +30,7 @@
 </div>
 
 ###
-
+<h3 align="center">Social Media</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/miki-tl/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />

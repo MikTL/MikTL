@@ -14,11 +14,9 @@
 <br clear="both">
 
 <div align="center">
-  
-  ![MikTL GitHub stats](https://github-readme-stats.vercel.app/api?username=MikTL&show_icons=true&theme=tokyonight&count_private=true)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikTL&layout=pie&theme=radical)](https://github.com/MikTL/github-readme-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=MikTL" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&username=MikTL" height="150" alt="languages graph"  />  
+</div>
 ###
 <h3 align="center">Skills</h3>
 <div align="center">
